@@ -34,6 +34,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Mike Ziccardi
 [UX/UI Week 1: Swipeable Cards](https://github.com/mziccardi/swipe-cards)
+[UX/UI Week 2: Side_Nav](https://github.com/mziccardi/Side_Nav)
 ## Noah Peden
 
 ## Rebekah Lundy
